@@ -2,8 +2,15 @@
 ## Unearthing Economic Connectedness
 The Association for Management Information Systems has create an oppurtunity for us to particate in the 2024 AMIS National Competitions host by the University of Utah AIS Student Chapter to present our contribution toward Social Capital Development focusing on Economic connectedness and actionable steps to enhance Economic Integration. 
 
-Before diving indeep, we would like to start by saying special thanks to all Friends of public policy and social capital advocates for their continued contribution to Social Capital Development. Recently Raj Chertty & his team released their research paper on Social Capital with three measures Economic Connectedness, Cohesiveness and Civic Engagement. 
+Before delving indeep, we would like to start by saying special thanks to all Friends of public policy and social capital advocates for their continued contribution to Social Capital Development. 
+Another Special thank to Opportunity Insights -  Social Capital Atlas and BIG shout out to Raj Chertty & his team for their research paper on Social Capital with new a measurement "Economic Connectedness".
+Social Capital I: Measurement and Associations with Economic Mobility
+Social Capital II: Determinants of Economic Connectedness
+
 The term Economic connectedness refers to the extent to which individuals, institutions, and neighborhoods are intertwined economically. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility. 
+
+Our team "The UoM AMIS member" as been assigned the task to analyze the Social Capital dataset, developed by Meta, featuring data on 21 billion friendships to uncover insights into economic connectedness and social cohesion. 
+Our goal is to use Data Engineering skills and machine learning techniques to identify insights  into economic connectedness and provide recommendations for community leaders, policymakers, or educational institution on actionable strategies that could enhance economic integration and uplift all local communities by starting small with measurable KPI's. 
 
 Unearthing Economic Connectedness is a critical endeavor that sheds light on the intricate web of relationships and interactions within communities, particularly concerning economic mobility. Let’s explore its significance:
 
