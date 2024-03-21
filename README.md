@@ -1,4 +1,5 @@
-# Social Capital Analytics Challenge: Unearthing Economic Connectedness
+# Social Capital Analytics Challenge
+## Unearthing Economic Connectedness
 Special thanks to all Friends of public policy and social capital advocates for their continued contribution to Social Capital Development. Recently Raj Chertty & his team released their research paper on Social Capital with three measures Economic Connectedness, Cohesiveness and Civic Engagement. 
 The Association for Management Information Systems has create an oppurtunity for us to particate in the 2024 AMIS National Competitions host by the University of Utah AIS Student Chapter to present our contribution toward Social Capital Development focusing on Economic connectedness and actionable steps to enhance Economic Integration. 
 
