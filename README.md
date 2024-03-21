@@ -1,8 +1,8 @@
 # Social Capital Analytics Challenge
 ## Unearthing Economic Connectedness
-Special thanks to all Friends of public policy and social capital advocates for their continued contribution to Social Capital Development. Recently Raj Chertty & his team released their research paper on Social Capital with three measures Economic Connectedness, Cohesiveness and Civic Engagement. 
 The Association for Management Information Systems has create an oppurtunity for us to particate in the 2024 AMIS National Competitions host by the University of Utah AIS Student Chapter to present our contribution toward Social Capital Development focusing on Economic connectedness and actionable steps to enhance Economic Integration. 
 
+Before diving indeep, we would like to start by saying special thanks to all Friends of public policy and social capital advocates for their continued contribution to Social Capital Development. Recently Raj Chertty & his team released their research paper on Social Capital with three measures Economic Connectedness, Cohesiveness and Civic Engagement. 
 The term Economic connectedness refers to the extent to which individuals, institutions, and neighborhoods are intertwined economically. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility. 
 
 Unearthing Economic Connectedness is a critical endeavor that sheds light on the intricate web of relationships and interactions within communities, particularly concerning economic mobility. Let’s explore its significance:
