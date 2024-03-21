@@ -3,7 +3,7 @@
 The Association for Management Information Systems has create an oppurtunity for us to particate in the 2024 AMIS National Competitions host by the University of Utah AIS Student Chapter to present our contribution toward Social Capital Development focusing on Economic connectedness and actionable steps to enhance Economic Integration. 
 
 Before delving indeep, we would like to start by saying special thanks to all Friends of public policy, social capital advocates, and Researchers for their continued contribution to Social Capital Development. 
-Another Special thank to Opportunity Insights -  Social Capital Atlas and BIG shout out to Raj Chertty & his team for their research paper on Social Capital with new a measurement "Economic Connectedness".
+Another Special thank to Opportunity Insights -  Social Capital Atlas and a BIG shout out to Raj Chertty & his team for their research paper on Social Capital with new a measurement "Economic Connectedness".
 Social Capital I: Measurement and Associations with Economic Mobility
 Social Capital II: Determinants of Economic Connectedness
 
