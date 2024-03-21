@@ -6,8 +6,8 @@ Before delving indeep, we would like to start by saying special thanks to all Fr
 
 Another Special thank to Opportunity Insights -  Social Capital Atlas and a BIG shout out to Raj Chertty & his team for their research paper on Social Capital with new a measurement "Economic Connectedness".
 
-Social Capital I: Measurement and Associations with Economic Mobility
-Social Capital II: Determinants of Economic Connectedness
+### Social Capital I: Measurement and Associations with Economic Mobility
+### Social Capital II: Determinants of Economic Connectedness
 
 The term Economic connectedness refers to the extent to which individuals, institutions, and neighborhoods are intertwined economically. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility. 
 
@@ -28,3 +28,5 @@ Researchers, including Raj Chetty and his team, have delved into this concept us
 ![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/c5396623-6a20-4df9-89e7-33bcf7d44a57)
 
 ![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/5eecab06-efb1-47c0-bc2e-5d5d0757b4af)
+
+![Uploading image.png…]()
