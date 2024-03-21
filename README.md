@@ -29,7 +29,7 @@ Researchers, including Raj Chetty and his team, have delved into this concept us
 
 ![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/5eecab06-efb1-47c0-bc2e-5d5d0757b4af)
 
-![Uploading image.png…]()
+![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/9328f593-feef-4cc2-ac87-95619ba45ae5)
 
+![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/40545a8d-824e-4a7d-b332-10480cb677b2)
 
-![Uploading image.png…]()
