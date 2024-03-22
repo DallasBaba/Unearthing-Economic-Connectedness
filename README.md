@@ -8,7 +8,7 @@ Before delving into the details, we express our heartfelt gratitude to all Frien
 
 We also extend a special thank you to Opportunity Insights - Social Capital Atlas and a resounding applause to Raj Chetty and his team for their groundbreaking research paper on Social Capital, introducing the novel concept of “Economic Connectedness.”
 
-###### ![Social Capital I: Measurement and Associations with Economic Mobility](https://www.nature.com/articles/s41586-022-04996-4)
+###### [Social Capital I: Measurement and Associations with Economic Mobility](https://www.nature.com/articles/s41586-022-04996-4)
 ###### Social Capital I: Measurement and Associations with Economic Mobility
 ###### Social Capital II: Determinants of Economic Connectedness
 
