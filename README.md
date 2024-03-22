@@ -33,9 +33,9 @@ The following images are from our workflow process using Microsoft Fabric End-To
 
 ![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/5eecab06-efb1-47c0-bc2e-5d5d0757b4af)
 
-![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/86f39e64-4758-4157-8573-41b98e106ebf)
+![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/94c9328e-9a66-4f3b-987a-86b8b5629a51)
 
-![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/ade3ce3a-b448-45d6-9707-c4d64d121b73)
+![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/d13bfb24-4103-451e-b953-357f7a30c30d)
 
 ![image](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/9328f593-feef-4cc2-ac87-95619ba45ae5)
 
