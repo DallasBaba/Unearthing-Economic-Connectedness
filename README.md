@@ -1,24 +1,23 @@
-# Social Capital Analytics Challenge
-### Unearthing Economic Connectedness
-The Association for Management Information Systems has create an oppurtunity for us to particate in the 2024 AMIS National Competitions host by the University of Utah AIS Student Chapter to present our contribution toward Social Capital Development focusing on Economic connectedness and actionable steps to enhance Economic Integration. 
 
-Before delving indeep, we would like to start by saying special thanks to all Friends of public policy, social capital advocates, and Researchers for their continued contribution to Social Capital Development. 
+# Leveraging Social Capital for Economic Connectedness: 
+## Insights from the 2024 AMIS National Competitions
 
-Another Special thank to Opportunity Insights -  Social Capital Atlas and a BIG shout out to Raj Chertty & his team for their research paper on Social Capital with new a measurement "Economic Connectedness".
+The Association for Management Information Systems (AMIS) has extended an exciting opportunity for us to participate in the 2024 AMIS National Competitions, hosted by the University of Utah AIS Student Chapter. This unique opportunity allows us to showcase our contributions toward Social Capital Development, with a specific focus on enhancing Economic Integration.
 
-###### Social Capital I: Measurement and Associations with Economic Mobility
-###### Social Capital II: Determinants of Economic Connectedness
+Before delving into the details, we express our heartfelt gratitude to all Friends of Public Policy, Social Capital Advocates, and Researchers who have consistently contributed to the field of Social Capital Development.
 
-The term Economic connectedness refers to the extent to which individuals, institutions, and neighborhoods are intertwined economically. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility. 
+We also extend a special thank you to Opportunity Insights - Social Capital Atlas and a resounding applause to Raj Chetty and his team for their groundbreaking research paper on Social Capital, introducing the novel concept of “Economic Connectedness.”
 
-Our team "The UoM AMIS member" as been assigned the task to analyze the Social Capital dataset, developed by Meta, featuring data on 21 billion friendships to uncover insights into economic connectedness and social cohesion. 
-Our goal is to use Data Engineering skills and machine learning techniques to identify insights  into economic connectedness and provide recommendations for community leaders, policymakers, or educational institution on actionable strategies that could enhance economic integration and uplift all local communities by starting small with measurable KPI's. 
+## Understanding Economic Connectedness
+Economic connectedness refers to the degree to which individuals, institutions, and neighborhoods are economically intertwined. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility.
 
-Unearthing Economic Connectedness is a critical endeavor that sheds light on the intricate web of relationships and interactions within communities, particularly concerning economic mobility. Let’s explore its significance:
+## Our Mission: Analyzing Social Capital
+Our team, “The University of Memphis - AMIS Member,” has been assigned the critical task of analyzing the Social Capital dataset developed by Meta. This dataset features information on a staggering 21 billion friendships. Our primary goal is to uncover insights into economic connectedness and social cohesion. To achieve this, we will leverage Data Engineering skills and machine learning techniques.
 
-Understanding Economic Connectedness:
-Economic connectedness refers to the extent to which individuals, institutions, and neighborhoods are intertwined economically. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility.
-Researchers, including Raj Chetty and his team, have delved into this concept using a massive dataset derived from 21 billion Facebook connections
+## Actionable Strategies for Community Leaders and Policymakers
+Our study methodically examines social interactions across diverse demographics and educational settings. By identifying patterns and correlations, we aim to provide actionable recommendations for community leaders, policymakers, and educational institutions. These strategies will enhance economic integration and uplift local communities. We believe that even small, measurable Key Performance Indicators (KPIs) can make a significant impact.
+
+Let’s harness the power of Social Capital to foster economic connectedness and create a stronger, more resilient community.
 
 ![2024-03-21 09_11_42-Mail](https://github.com/DallasBaba/Unearthing-Economic-Connectedness/assets/104704361/23940b62-9d9c-4aec-af74-bedf3c11e605)
 
