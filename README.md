@@ -15,7 +15,9 @@ Economic connectedness refers to the degree to which individuals, institutions, 
 Our team, “The University of Memphis - AMIS Member,” has been assigned the critical task of analyzing the Social Capital dataset developed by Meta. This dataset features information on a staggering 21 billion friendships. Our primary goal is to uncover insights into economic connectedness and social cohesion. To achieve this, we will leverage Data Engineering skills and machine learning techniques.
 
 ## Actionable Strategies for Community Leaders and Policymakers
-Our study methodically examines social interactions across diverse demographics and educational settings. By identifying patterns and correlations, we aim to provide actionable recommendations for community leaders, policymakers, and educational institutions. These strategies will enhance economic integration and uplift local communities. We believe that even small, measurable Key Performance Indicators (KPIs) can make a significant impact.
+Our study methodically examines social interactions across diverse demographics and educational settings. By identifying patterns and correlations, we aim to provide actionable recommendations for community leaders, policymakers, and educational institutions. These strategies will enhance economic integration and uplift local communities.
+
+We believe that even small, measurable Key Performance Indicators (KPIs) can make a significant impact.
 
 Let’s harness the power of Social Capital to foster economic connectedness and create a stronger, more resilient community.
 
