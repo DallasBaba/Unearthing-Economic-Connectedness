@@ -10,8 +10,6 @@ We also extend a special thank you to Opportunity Insights - Social Capital Atla
 
 ###### [Social Capital I: Measurement and Associations with Economic Mobility](https://www.nature.com/articles/s41586-022-04996-4)
 ###### [Social Capital II: Determinants of Economic Connectedness](https://www.nature.com/articles/s41586-022-04997-3)
-###### Social Capital I: Measurement and Associations with Economic Mobility
-###### Social Capital II: Determinants of Economic Connectedness
 
 ## Understanding Economic Connectedness
 Economic connectedness refers to the degree to which individuals, institutions, and neighborhoods are economically intertwined. It encompasses the networks, friendships, and collaborations that facilitate economic opportunities and upward mobility.
