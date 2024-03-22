@@ -1,5 +1,5 @@
 
-# Leveraging Social Capital for Economic Connectedness: 
+# Leveraging Social Capital for Economic Connectedness
 ## Insights from the 2024 AMIS National Competitions
 
 The Association for Management Information Systems (AMIS) has extended an exciting opportunity for us to participate in the 2024 AMIS National Competitions, hosted by the University of Utah AIS Student Chapter. This unique opportunity allows us to showcase our contributions toward Social Capital Development, with a specific focus on enhancing Economic Integration.
